@@ -1,5 +1,5 @@
 # Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System 
-## by HUI-YING LU
+## by Islam Mohamed
 
 
 ## Dataset
